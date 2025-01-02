@@ -16,7 +16,7 @@
  - https://jlcpcb.com/partdetail/MurataElectronics-BLM15PX121SN1D/C88970
 
 
-
+<br>
 # FB_1608 @ L1608_N
 フェライトビーズ（1608M・0603[inch]）
 
@@ -31,7 +31,7 @@
 
 
 
-
+<br>
 # L_MLD_0420 @ L_MLD_0420
 SMDパワーインダクター（モールド型：0420）
 
