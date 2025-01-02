@@ -11,8 +11,8 @@
  - https://jlcpcb.com/partdetail/13164-CL05A225MQ5NSNC/C12530
 
 
-
 <br>
+
 # CAP_1608 @ C1608_N
 
 ## 22uF
@@ -21,6 +21,7 @@
 
 
 <br>
+
 # CAP_2012 @ C2012_N
 
 ## 22uF
