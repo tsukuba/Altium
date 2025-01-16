@@ -114,9 +114,12 @@ function GetRotation() {
     # 読み込み処理
     $rotation_table_index = $rotation[$rotation_table_line_start].Trim().SubString(1, $rotation[$rotation_table_line_start].Trim().Length-2).Trim().Replace("`t", "")
     $rotation_table=""
-    for($i=$rotation_table_line_start+2; $i -lt $rotation_table_line_end; $i++){
+    for($i=$rotation_table_line_start+2; $i -lt $rotation_table_line_end+1; $i++){
         $rotation_table += ($rotation[$i].Trim().SubString(1, $rotation[$i].Length-2).Split("|").Trim() -join ",") + [System.Environment]::NewLine
     }
+
+    #WriteOutput $rotation_table
+
     $global:rotation_data = ConvertFrom-Csv -InputObject $rotation_table -Header ($rotation_table_index.Split("|").Trim())
 
     WriteOutput("Rotationデータ読み込み完了")
