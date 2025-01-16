@@ -23,9 +23,16 @@ URLを各Markdownファイルに書いてあります。
 
 
  - [Capacitor.md](Capacitor.md) コンデンサ一覧
+ - [Clock.md](Clock.md) クロック関係一覧
+ - [Connector.md](Connector.md) コネクタ一覧
  - [Inductor.md](Inductor.md) インダクタ一覧
-
-
+ - [Interface.md](Interface.md) インターフェースIC関係一覧
+ - [MCU.md](MCU.md) マイコン一覧
+ - [Memory.md](Memory.md) メモリ系IC一覧
+ - [Optical.md](Optical.md) 光学系（LED・フォトカプラ他）
+ - [Power.md](Power.md) 電源系IC一覧
+ - [Resistor.md](Resistor.md) 抵抗一覧
+ - [Switch.md](Switch.md) スイッチ一覧
 
 
 
