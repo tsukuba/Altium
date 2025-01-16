@@ -75,11 +75,17 @@ SFPコネクタ
 
 SFPケージ
 
+スナップフィット
+
+ - https://jlcpcb.com/partdetail/Umax-161C200/C444355
+ - https://jlcpcb.com/partdetail/Hctl-HC_SFP03L/C7429382
+ - https://jlcpcb.com/partdetail/TeConnectivity-22273021/C589577
 
 
+はんだづけ
 
-
-
-
+ - https://jlcpcb.com/partdetail/TeConnectivity-22273033/C5164170
+ - https://jlcpcb.com/partdetail/Hctl-HC_SFP01L/C2897292
+ - https://jlcpcb.com/partdetail/Lian_XinTechnology-XDSFP_020RTS19/C22375245
 
 

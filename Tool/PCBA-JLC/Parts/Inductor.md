@@ -1,19 +1,15 @@
 
-
-
-
-
-
-
-
-
-
-
 # FB_1005 @ L1005_N
 フェライトビーズ（1005M・0402[inch]）
 
-## 120
+## 120R
  - https://jlcpcb.com/partdetail/MurataElectronics-BLM15PX121SN1D/C88970
+
+
+
+
+
+
 
 
 <br>
@@ -21,7 +17,7 @@
 # FB_1608 @ L1608_N
 フェライトビーズ（1608M・0603[inch]）
 
-## 120
+## 120R
  - https://jlcpcb.com/partdetail/MurataElectronics-BLM18PG121SN1D/C14709
  - https://jlcpcb.com/partdetail/MurataElectronics-BLM18KG121TN1D/C85831
 

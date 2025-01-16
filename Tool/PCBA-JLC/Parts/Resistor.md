@@ -37,7 +37,13 @@
 ## 12K
  - https://jlcpcb.com/partdetail/26495-0402WGF1202TCE/C25752
 
+## 12K 1%
+ - https://jlcpcb.com/partdetail/26495-0402WGF1202TCE/C25752
+
 ## 20K
+ - https://jlcpcb.com/partdetail/26508-0402WGF2002TCE/C25765
+
+## 20K 1%
  - https://jlcpcb.com/partdetail/26508-0402WGF2002TCE/C25765
 
 ## 33.2K
@@ -90,7 +96,13 @@
 ## 12K
  - https://jlcpcb.com/partdetail/23517-0603WAF1202T5E/C22790
 
+## 12K 1%
+ - https://jlcpcb.com/partdetail/23517-0603WAF1202T5E/C22790
+
 ## 20K
+ - https://jlcpcb.com/partdetail/4591-0603WAF2002T5E/C4184
+
+## 20K 1%
  - https://jlcpcb.com/partdetail/4591-0603WAF2002T5E/C4184
 
 ## 68K
