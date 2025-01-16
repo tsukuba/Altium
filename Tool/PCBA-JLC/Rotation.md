@@ -28,7 +28,6 @@ Rotation Data
 | CAP_2012		| C2012_N			| 0 |
 | FB_1005		| L1005_N			| 0 |
 | L_MLD_0420 		| L_MLD_0420 			| 90 |
-| SFP 			| SFP 				| 180 |
 | SN65LVDS1DBVR 	| SOT-23-5_N 			| 180 |
 | SN65LVDS2DBVR 	| SOT-23-5_N 			| 180 |
 | W25Q16JVSNIQ 		| SOIC-8_N 			| 270 |
@@ -36,8 +35,9 @@ Rotation Data
 | TPS563201DDCR		| TSOT-23-6_N 			| 270 |
 | PCA9555APW 		| TSSOP-24_4.4x7.8_P0.65_N 	| 270 |
 | X322512MSB4SI 	| OSC_3225 			| 180 |
-
-
+| SFP 			| SFP 				| 180 |
+| SSF-LXH240IGD 	| SSF-LXH240IGD 		| 180 |
+| RasPi Pico 		| PICO_2_HOLE_PAD 		| 180 |
 
 
 
