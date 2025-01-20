@@ -1,6 +1,21 @@
 
 
 
+
+# AZ1117CH-3.3TRG1 @ SOT-223_N
+
+3.3V レギュレータ
+
+ - https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186
+
+
+
+
+
+
+
+<br>
+
 # AP62300TWU @ TSOT-23-6_N
 
 DCDCコンバータ Step-down（AP62300TWU / TPS563201DDCR：ENピン注意）

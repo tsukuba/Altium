@@ -90,6 +90,9 @@
 ## 1K
  - https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190
 
+## 2.2K
+ - https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190
+
 ## 10K
  - https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804
 
@@ -111,16 +114,24 @@
 ## 75K
  - https://jlcpcb.com/partdetail/23969-0603WAF7502T5E/C23242
 
+## 100K
+ - https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803
+
 ## 1M
  - https://jlcpcb.com/partdetail/23662-0603WAF1004T5E/C22935
 
 
 
 
+<br>
+
+# RES_AR3216 @ AR8_3216_N
+
+集合抵抗
 
 
-
-
+## 10R
+ - https://jlcpcb.com/partdetail/418861-4D03WGF100JT5E/C425237
 
 
 

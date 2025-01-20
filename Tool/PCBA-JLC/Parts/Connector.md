@@ -36,6 +36,24 @@ BOXヘッダー10P
  - https://jlcpcb.com/partdetail/boomele_boom_Precision_elec-2_54_2_5P/C5665
 
 
+<br>
+
+# BOX_2X5H @ BOXH_2X5_HORIZONTAL_N
+
+BOXヘッダー10Pライトアングル
+
+ - https://jlcpcb.com/partdetail/boomele_boom_Precision_elec-2_54_2_5P/C9140
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 
@@ -54,6 +72,25 @@ BOXヘッダー10P
 
 
 
+
+<br>
+
+# USB-B @ USB_TYPE-B
+
+USB Bコネクタ
+
+ - https://jlcpcb.com/partdetail/Xunpu-USB_B10BRW/C720549
+ - https://jlcpcb.com/partdetail/Sofng-USBB01/C498173
+ - https://jlcpcb.com/partdetail/47396-921111A1010D10200/C46392
+ - https://jlcpcb.com/partdetail/ShouHan-BF_90/C456014
+ - https://jlcpcb.com/partdetail/47397-921112A1010D10200/C46393
+
+
+
+
+
+
+
 <br>
 
 # SFP @ SFP
@@ -61,6 +98,7 @@ BOXヘッダー10P
 SFPコネクタ
 
  - https://jlcpcb.com/partdetail/Umax-M42F_08P_020P002G/C404107
+ - https://jlcpcb.com/partdetail/Foxconn-3S102023_0117F/C2832349
  - https://jlcpcb.com/partdetail/Hctl-HC_SFP20P/C2897291
  - https://jlcpcb.com/partdetail/cndtek-G72SK210C01/C5441185
  - https://jlcpcb.com/partdetail/Umax-KSP20LG154/C404108
