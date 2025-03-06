@@ -59,7 +59,9 @@ BOXヘッダー10Pライトアングル
 
 # XH-2V @ XH-2_VERTICAL
 
+ - https://jlcpcb.com/partdetail/Jst-B2B_XH_A_LF_SN/C158012
  - https://jlcpcb.com/partdetail/Megastar-ZX_XH2_542PZZ/C7429632
+
 
 
 <br>
@@ -67,6 +69,40 @@ BOXヘッダー10Pライトアングル
 # XH-2H @ XH-2_HORIZONTAL
 
  - https://jlcpcb.com/partdetail/Megastar-ZX_XH2_542PWZ/C7429641
+
+
+
+<br>
+
+# XH-3V @ XH-3_VERTICAL
+
+ - https://jlcpcb.com/partdetail/Jst-B3B_XH_A_LF_SN/C144394
+ - https://jlcpcb.com/partdetail/Megastar-ZX_XH2_543PZZ/C7429633
+
+
+
+<br>
+
+# XH-4V @ XH-4_VERTICAL
+
+ - https://jlcpcb.com/partdetail/Megastar-ZX_XH2_544PZZ/C7429634
+
+
+
+<br>
+
+# XH-5V @ XH-5_VERTICAL
+
+ - https://jlcpcb.com/partdetail/Megastar-ZX_XH2_545PZZ/C7429635
+
+
+
+<br>
+
+# XH-6V @ XH-6_VERTICAL
+
+ - https://jlcpcb.com/partdetail/Megastar-ZX_XH2_546PZZ/C7429636
+
 
 
 
@@ -125,5 +161,18 @@ SFPケージ
  - https://jlcpcb.com/partdetail/TeConnectivity-22273033/C5164170
  - https://jlcpcb.com/partdetail/Hctl-HC_SFP01L/C2897292
  - https://jlcpcb.com/partdetail/Lian_XinTechnology-XDSFP_020RTS19/C22375245
+
+
+
+
+
+
+
+<br>
+
+BNC_RA_H6.9 @ BNC_RA CON_H6.9
+
+
+
 
 

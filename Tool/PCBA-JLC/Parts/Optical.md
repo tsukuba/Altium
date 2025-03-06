@@ -10,6 +10,17 @@
 
 
 
+<br>
+
+# WP914CK/4GDT @ WP914CK/4GDT
+
+4連縦型LEDグリーン角形
+
+ - https://jlcpcb.com/partdetail/Meihua-MHK4212CGTD/C2764898
+ - https://jlcpcb.com/partdetail/Kingbright-L_914CK4GDT/C193423
+ - https://jlcpcb.com/partdetail/Kingbright-WP914CK4GDT/C17587294
+ - https://jlcpcb.com/partdetail/Xinglight-XL_DZ234SYGD4/C7545670
+
 
 
 

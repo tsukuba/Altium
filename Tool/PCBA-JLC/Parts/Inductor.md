@@ -44,5 +44,43 @@ SMDパワーインダクター（モールド型：0420）
 
 
 
+<br>
+
+# L_MLD_0630 @ L_MLD_0630
+SMDパワーインダクター（モールド型：0630）
+
+## 6.8uH
+ - https://jlcpcb.com/partdetail/178604-FXL0630_6R8M/C167221
+ - https://jlcpcb.com/partdetail/Sunlord-MWSA0603S6R8MT/C408449
+ - https://jlcpcb.com/partdetail/Apv-APH0630T6R8M/C5349706
+ - https://jlcpcb.com/partdetail/139975-SMMS06306R8M/C128690
+
+
+## 10uH
+ - https://jlcpcb.com/partdetail/178606-FXL0630_100M/C167223
+ - https://jlcpcb.com/partdetail/139977-SMMS0630100M/C128692
+ - https://jlcpcb.com/partdetail/Sunlord-MWSA0603S100MT/C132141
+ - https://jlcpcb.com/partdetail/Deyan-D0630HP100MT/C41410464
+ - https://jlcpcb.com/partdetail/Ceaiya-CMPI0630100M/C917354
+
+
+## 15uH
+ - https://jlcpcb.com/partdetail/188635-FXL0630_150M/C177243
+ - https://jlcpcb.com/partdetail/SunltechTech-SLO0630H150MTT/C182182
+ - https://jlcpcb.com/partdetail/139978-SMMS0630150M/C128693
+ - https://jlcpcb.com/partdetail/Sunlord-MWSA0603S150MT/C408452
+ - https://jlcpcb.com/partdetail/Yjycoin-YSPI0630A150M/C497872
+
+
+
+
+
+
+
+
+
+
+
+
 
 

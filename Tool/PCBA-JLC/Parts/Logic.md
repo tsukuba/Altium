@@ -32,3 +32,34 @@
  - https://jlcpcb.com/partdetail/TexasInstruments-SN74AVC4T774PWR/C129363
 
 
+
+
+
+
+<br>
+
+# CD40106BM96 @ SOIC-14_N
+
+CMOS4000シリーズ・シュミットトリガ・インバータ
+
+ - https://jlcpcb.com/partdetail/TexasInstruments-CD40106BM96/C38184
+
+
+
+
+<br>
+
+# CD4013BM96 @ SOIC-14_N
+
+CMOS4000シリーズ・Dフリップフロップ
+
+ - https://jlcpcb.com/partdetail/TexasInstruments-CD4013BM96/C13527
+
+
+
+
+
+
+
+
+
