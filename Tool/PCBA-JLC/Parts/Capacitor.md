@@ -42,25 +42,30 @@
  - https://jlcpcb.com/partdetail/2005-CL10C220JB8NNNC/C1653
 
 ## 75pF
+75pF 50V
  - https://jlcpcb.com/partdetail/2033-0603CG750J500NT/C1681
  - https://jlcpcb.com/partdetail/Yageo-CC0603FRNPO9BN750/C519496
 
 ## 100pF
+100pF 50V
  - https://jlcpcb.com/partdetail/Yageo-CC0603JRNPO9BN101/C14665
  - https://jlcpcb.com/partdetail/15530-CL10C101JB8NNNC/C14858
  - https://jlcpcb.com/partdetail/1987-0603CG101J500NT/C1635
 
 ## 1000pF
+1000pF/1nF 50V
  - https://jlcpcb.com/partdetail/1940-CL10B102KB8NNNC/C1588
  - https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB102/C100040
  - https://jlcpcb.com/partdetail/45371-0603B102K500NT/C44369
 
 ## 3300pF
+3300pF/3.3nF 50V
  - https://jlcpcb.com/partdetail/1965-CL10B332KB8NNNC/C1613
  - https://jlcpcb.com/partdetail/MurataElectronics-GRM1885C1H332JA01D/C77036
  - https://jlcpcb.com/partdetail/Yageo-CC0603JRNPO9BN332/C107048
 
 ## 0.01uF
+0.01uF/10nF 50V
  - https://jlcpcb.com/partdetail/58143-0603B103K500NT/C57112
  - https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB103/C100042
  - https://jlcpcb.com/partdetail/1941-CL10B103KB8NNNC/C1589
