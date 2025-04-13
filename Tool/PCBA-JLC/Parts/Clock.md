@@ -10,3 +10,26 @@
 
 
 
+
+<br>
+
+# DS3231SN# @ SOIC-16W_N
+
+RTC
+
+ - https://jlcpcb.com/partdetail/10398-DS3231SN_TR/C9866
+ - https://jlcpcb.com/partdetail/766567-DS3231SN/C722469
+
+
+
+
+
+
+
+
+
+
+
+
+
+

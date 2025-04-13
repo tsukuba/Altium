@@ -1,12 +1,59 @@
 
 
 
+# XC6206P332MR-G
+
+3端子レギュレータ 3.3V 220mA
+
+ - https://jlcpcb.com/partdetail/TorexSemicon-XC6206P332MRG/C5446
+
+
+
+<br>
 
 # AZ1117CH-3.3TRG1 @ SOT-223_N
 
-3.3V レギュレータ
+3端子レギュレータ 3.3V 1A
 
  - https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186
+
+
+
+<br>
+
+# AMS1117-3.3 @ SOT-223_N
+
+3端子レギュレータ 3.3V 1A
+
+ - https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186
+
+
+
+
+
+
+<br>
+
+# AZ1117CH-5.0TRG1 @ SOT-223_N
+
+3端子レギュレータ 5.0V 1A
+
+ - https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_50/C6187
+
+
+
+<br>
+
+# AMS1117-5.0 @ SOT-223_N
+
+3端子レギュレータ 5.0V 1A
+
+ - https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_50/C6187
+
+
+
+
+
 
 
 

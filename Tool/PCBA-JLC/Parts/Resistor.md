@@ -90,6 +90,9 @@
 ## 100R
  - https://jlcpcb.com/partdetail/23502-0603WAF1000T5E/C22775
 
+## 220R
+ - https://jlcpcb.com/partdetail/23689-0603WAF2200T5E/C22962
+
 ## 1K
  - https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190
 
@@ -101,6 +104,9 @@
 
 ## 4.12K
  - https://jlcpcb.com/partdetail/23768-0603WAF4121T5E/C23041
+
+## 4.7K
+ - https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162
 
 ## 4.99K
  - https://jlcpcb.com/partdetail/23773-0603WAF4991T5E/C23046
@@ -125,6 +131,12 @@
 
 ## 20K 1%
  - https://jlcpcb.com/partdetail/4591-0603WAF2002T5E/C4184
+
+## 22.1K
+ - https://jlcpcb.com/partdetail/26704-0603WAF2212T5E/C25961
+
+## 47K
+ - https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819
 
 ## 68K
  - https://jlcpcb.com/partdetail/23958-0603WAF6802T5E/C23231
@@ -161,6 +173,19 @@
 
 
 
+<br>
+
+# RES_3216 @ R3216_N
+
+チップ抵抗（3216M・1206[inch]）
+
+## 100R
+ - https://jlcpcb.com/partdetail/18589-1206W4F1000T5E/C17901
+
+
+
+
+
 
 <br>
 
@@ -170,6 +195,10 @@
 
 ## 0R
  - https://jlcpcb.com/partdetail/Fojan-FRP2512F0000TS/C5204052
+
+## 10m
+ - https://jlcpcb.com/partdetail/138975-25121WF100MT4E/C127692
+ - https://jlcpcb.com/partdetail/Yageo-PE2512FKE7W0R01L/C875720
 
 ## 1R
  - https://jlcpcb.com/partdetail/Fojan-FRP2512F1R00TS/C5713424
@@ -186,13 +215,13 @@
 
 ## 10R
  - https://jlcpcb.com/partdetail/Fojan-FRP2512J100TS/C3013385
+ - https://jlcpcb.com/partdetail/3454232-RPL12K10R0FT/C2991665
  - https://jlcpcb.com/partdetail/Yageo-RC2512FK7W10RL/C876258
  - https://jlcpcb.com/partdetail/Bourns-CRM2512_FX10R0ELF/C840605
- - https://jlcpcb.com/partdetail/3454232-RPL12K10R0FT/C2991665
 
 ## 15R
- - https://jlcpcb.com/partdetail/Yageo-RC2512JK7W15RL/C2980086
  - https://jlcpcb.com/partdetail/Fojan-FRP2512J150TS/C5713426
+ - https://jlcpcb.com/partdetail/Yageo-RC2512JK7W15RL/C2980086
 
 ## 22R
  - https://jlcpcb.com/partdetail/Fojan-FRP2512F22R0TS/C5204054
@@ -227,7 +256,7 @@
 ## 680R
  - https://jlcpcb.com/partdetail/Fojan-FRP2512F6800TS/C3013382
 
-### 1K
+## 1K
  - https://jlcpcb.com/partdetail/Ever_OhmsTech-CRH2512J1K00E04Z/C175457
 
 
@@ -249,17 +278,6 @@
 
 ## 10R
  - https://jlcpcb.com/partdetail/418861-4D03WGF100JT5E/C425237
-
-
-
-
-
-
-
-
-
-
-
 
 
 

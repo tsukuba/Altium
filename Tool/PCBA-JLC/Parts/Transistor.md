@@ -9,22 +9,47 @@
 
 <br>
 
-2N7002
-https://jlcpcb.com/partdetail/9040-2N7002/C8545
+# 2N7002 @ SOT-23_N
+
+60V 115mA NチャンネルMOSFET
+
+ - https://jlcpcb.com/partdetail/9040-2N7002/C8545
 
 
 
 <br>
 
-AO3400A
-https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3400A/C20917
+# AO3400A @ SOT-23_N
+
+30V 5.7A NチャンネルMOSFET
+
+ - https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3400A/C20917
 
 
 
 <br>
 
-AO3401A
-https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3401A/C15127
+# AO3401A @ SOT-23_N
+
+30V 4A PチャンネルMOSFET
+
+ - https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3401A/C15127
+
+
+
+
+<br>
+
+# ULN2003A @ SOIC-16_N
+
+7 チャネル ダーリントン トランジスタ アレイ
+
+ - https://jlcpcb.com/partdetail/TexasInstruments-ULN2003ADR/C7512
+
+
+
+
+
 
 
 

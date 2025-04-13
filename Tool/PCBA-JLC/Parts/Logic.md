@@ -1,6 +1,19 @@
 
 
 
+
+# SN74LVC2G14DBVR @ SOT-23-6_N
+
+2bit シュミットトリガーインバータ
+
+ - https://jlcpcb.com/partdetail/TexasInstruments-SN74LVC2G14DBVR/C12401
+
+
+
+
+
+<br>
+
 # SN74LVC2G07DBVR @ SOT-23-6_N
 
 2bit オープンドレインバッファー
@@ -30,6 +43,22 @@
 4bit 3.3V 低電圧デュアル電源バストランシーバ
 
  - https://jlcpcb.com/partdetail/TexasInstruments-SN74AVC4T774PWR/C129363
+
+
+
+
+
+<br>
+
+# SN74LVC4245APWR @ TSSOP-24_4.4x7.8_P0.65_N
+
+8bit バストランシーバ 3.3V～5V電圧レベルシフタ
+
+ - https://jlcpcb.com/partdetail/TexasInstruments-SN74LVC4245APWR/C7859
+
+
+
+
 
 
 

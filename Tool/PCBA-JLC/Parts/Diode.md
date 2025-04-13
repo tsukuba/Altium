@@ -50,6 +50,31 @@
 
 
 
+
+
+
+
+
+
+
+
+
+<br>
+
+# BZT52C5V1 @ SOD-123_N
+
+ツェナー 5.1V 500mW
+
+ - https://jlcpcb.com/partdetail/184796-BZT52C5V1/C173407
+ - https://jlcpcb.com/partdetail/Twgmc-BZT52C5V1/C726995
+ - https://jlcpcb.com/partdetail/Goodwork-BZT52C5V1/C2903912
+
+
+
+
+
+
+
 <br>
 
 # 1SMA4744A @ DO-214AC_N
@@ -57,6 +82,11 @@
 ツェナー 15V 1W
 
  - https://jlcpcb.com/partdetail/436877-1SMA4744A/C438363
+
+
+
+
+
 
 
 

@@ -22,3 +22,32 @@
  - https://jlcpcb.com/partdetail/XkbConnection-DSHP08TSS/C319047
 
 
+
+
+
+
+
+
+
+
+
+
+<br>
+
+# DIP-8 @ SW_DIP-16
+
+ - https://jlcpcb.com/partdetail/100627-DSWB08LHGET/C99413
+ - https://jlcpcb.com/partdetail/Ece-EAM108EZ/C20606376
+
+
+
+
+
+
+
+
+
+
+
+
+

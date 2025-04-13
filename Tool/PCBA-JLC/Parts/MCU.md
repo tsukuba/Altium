@@ -22,6 +22,16 @@
 
 
 
+<br>
+
+# ATECC608A-SSHDA @ SOIC-8_N
+
+CryptoAuthenticationデバイス
+
+ - https://jlcpcb.com/partdetail/MicrochipTech-ATECC608A_SSHDAT/C616024
+
+
+
 
 
 

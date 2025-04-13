@@ -28,6 +28,31 @@
 
 
 
+
+
+
+<br>
+
+# FB_2012 @ L2012_N
+フェライトビーズ（2012M・0805[inch]）
+
+## 30R
+ - https://jlcpcb.com/partdetail/MurataElectronics-BLM21PG300SN1D/C16903
+ - https://jlcpcb.com/partdetail/258169-CBM201209U300T/C268310
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 # L_MLD_0420 @ L_MLD_0420
@@ -39,6 +64,15 @@ SMDパワーインダクター（モールド型：0420）
  - https://jlcpcb.com/partdetail/Yjycoin-YSPI04203R3M/C351090
  - https://jlcpcb.com/partdetail/Koherelec-MDA40203R3M/C2847470
  - https://jlcpcb.com/partdetail/ChilisinElec-BMRA000404203R3MA1/C2838336
+
+
+
+
+
+
+
+
+
 
 
 

@@ -41,6 +41,10 @@
 22pF 50V
  - https://jlcpcb.com/partdetail/2005-CL10C220JB8NNNC/C1653
 
+## 47pF
+47pF 50V
+ - https://jlcpcb.com/partdetail/2023-CL10C470JB8NNNC/C1671
+
 ## 75pF
 75pF 50V
  - https://jlcpcb.com/partdetail/2033-0603CG750J500NT/C1681

@@ -1,4 +1,18 @@
 
+# LED_1608_RED @ LED_1608_N
+
+通常の赤LED
+
+ - https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603R/C2286
+
+
+
+
+
+
+
+<br>
+
 # SSF-LXH240IGD @ SSF-LXH240IGD
 
 2連縦型LED上部レッド・下部グリーン
@@ -20,6 +34,38 @@
  - https://jlcpcb.com/partdetail/Kingbright-L_914CK4GDT/C193423
  - https://jlcpcb.com/partdetail/Kingbright-WP914CK4GDT/C17587294
  - https://jlcpcb.com/partdetail/Xinglight-XL_DZ234SYGD4/C7545670
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+# TLP2361 @ SOIC-6-5_N
+
+## TLP2361
+
+ロジック出力フォトカプラ
+
+ - https://jlcpcb.com/partdetail/Toshiba-TLP2361_V4_TPLE/C123773
+ - https://jlcpcb.com/partdetail/Toshiba-TLP2361_TPL_ET/C107626
+
+
+
+
+
+
+
+
 
 
 
