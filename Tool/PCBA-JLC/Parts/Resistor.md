@@ -135,6 +135,9 @@
 ## 22.1K
  - https://jlcpcb.com/partdetail/26704-0603WAF2212T5E/C25961
 
+## 33K
+ - https://jlcpcb.com/partdetail/4623-0603WAF3302T5E/C4216
+
 ## 47K
  - https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819
 
